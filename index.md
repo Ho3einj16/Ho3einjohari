@@ -52,5 +52,5 @@
 <ul>
   <li>ڪوئرا: <a href="">  </a></li>
   <li>لینڪدین: <a href="">  </a></li>
-  <li>رزومه ے انگلیسے: <a href=""> رزومه </a></li>
+  <li>رزومه ے انگلیسے: <a href="https://ho3einj16.github.io/Mr.Johari/"> رزومه </a></li>
 </ul>
